@@ -1,0 +1,8 @@
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Hello_project directory
+Hello_project/
+
+../Hello_project/
